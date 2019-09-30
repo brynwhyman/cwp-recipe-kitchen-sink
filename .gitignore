@@ -1,3 +1,8 @@
-vendor/
-themes/
-silverstripe-cache/
+/silverstripe-cache/
+/.env
+/vendor/
+/themes/simple/
+/resources/
+/public/resources/
+.vscode/
+.vagrant/
